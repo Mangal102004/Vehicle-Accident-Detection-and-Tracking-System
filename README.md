@@ -4,7 +4,7 @@ Embedded system project on Vehicle Accident Detection and Tracking using Tiva TM
 This repository aims at building an embedded system that can be installed in a vehicle , through which when an accident is detected, sends an alert message to a registered mobile number along with the google maps link of the accident location. 
 
 # Hardware used :
-  1)TIVA TM4C123GXL 
+  1)TIVA TM4C123GXL \n
   2)Vibration sesnor (SW420)
   3)GSM module (SIM900A)
   4)GPS module (U-Blox NEO-6M)
